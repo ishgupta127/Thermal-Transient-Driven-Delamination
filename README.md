@@ -1,2 +1,2 @@
-# Thermal-transient-Driven-Delamination
-Toolbox for Numerical Prediction of the Energy Release Rate for Crack Propagation in Multilayered Systems Under Thermal Transients
+# Thermal-Transient-Driven-Delamination
+Toolbox for Predicting the Energy Release Rate for 1-D Delamination Crack Propagation in Multilayered Systems Under Thermal Transients
